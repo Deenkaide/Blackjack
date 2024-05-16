@@ -92,7 +92,7 @@
             MoreCard();
 
 
-            if (dealerSum < 17)
+            while (dealerSum < 17)
             {
                 int dealerCard;
                 CardManager.CardDispenser();
